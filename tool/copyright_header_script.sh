@@ -33,6 +33,7 @@ do
 
     # Run copywriter command
     copywriter -d
+    
     popd
 done
 
